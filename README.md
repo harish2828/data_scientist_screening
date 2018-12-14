@@ -11,7 +11,7 @@ Using the [model_outcome.csv](https://github.com/screening-lacare/data_scientist
 1. _*Manually*_ calculate the sensitivity and specificity of the model, using a `predicted_prob` threshold of greater than or equal to .5. 
 2. _*Manually*_ calculate the Area Under the Receiver Operating Characteristic Curve.
 3. Visualize the Receiver Operating Characterstic Curve.
-4. Email your finalized, completely reproducible script to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at jjones@lacare.org.
+4. Email your finalized, completely reproducible .r or .py script to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at jjones@lacare.org.
 
 ## Assessment
 In addition to formulating the correct outputs for the above-mentioned requirements, the applicant's script will be assessed on:
